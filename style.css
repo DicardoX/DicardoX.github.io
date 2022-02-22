@@ -54,6 +54,7 @@ li{
   width: 70%;
   padding: 0.25in 0.25in 0 0.8in;
   font-size: 10pt;
+  margin-bottom: 0.5in;
 }
 
 #sidebar{
@@ -243,7 +244,7 @@ li{
 }
 
 .details h3{
-  font-size: 9pt;
+  font-size: 11pt;
 }
 
 .main-block:not(.concise) .details div{
@@ -262,7 +263,7 @@ li{
 
 .details .place{
   float: left;
-  font-size: 7.5pt;
+  font-size: 10pt;
 }
 
 .details .location{

@@ -66,6 +66,8 @@ Feel free to reach out if you are interested in potential collaboration!
 
 ## Preprint
 
+  - <span style="background-color: #A4D0C1; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 0.9em;">WIP</span> Yanbo Wang, Yuxuan Wang, Chen Chen, **#Chunyu Xue**, Yu Feng, Anbang Wu, Quan Chen, Yin Chen, Qizhen Weng. "Mosaic: Towards Efficient Training of Multimodal Models with Spatial Resource Multiplexing". *Work in progress*. [[Arxiv]](https://arxiv.org/abs/2605.18710v1)
+
 <span class='anchor' id='-projects'></span>
 
 # 🔨 Projects

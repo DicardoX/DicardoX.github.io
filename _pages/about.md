@@ -72,7 +72,7 @@ Feel free to reach out if you are interested in potential collaboration!
 
 # 🔨 Projects
 
- - *2026.03 - Now*, ViT-USM Encoder Unified Load Balancing and Dynamic Sequence Parallelism in Multimodal Pretraining. ByteDance Seed.
+ - *2026.03 - 2026.05*, ViT-USM Encoder Unified Load Balancing and Dynamic Sequence Parallelism in Multimodal Pretraining. ByteDance Seed.
  - *2025.12 - Now*, Eﬀicient Checkpoint-Restore Techniques for Large Model Elastic Training. Lenovo.
  - *2024.12 - 2025.12*, Eﬀicient and Elastic Training System for Large Models. Lenovo.
 

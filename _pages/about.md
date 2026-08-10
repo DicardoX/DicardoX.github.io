@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Chunyu Xue (薛春宇), a fourth-year PhD student in [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn) from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn), advised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html). My [research interests](https://github.com/DicardoX/Research-Space) lie in building efficient and scalable systems for LLM and MultiModal pretraining, supervised fine-tuning, post-training, and cluster-level scheduling. 
-Currently, I'm working as a research intern in [Moonshot AI (Kimi)](https://www.moonshot.ai) (RL Infrastructure). I had a wonderful experience when working as a research intern in [ByteDance Seed](https://seed.bytedance.com/en/) (Training Infrastructure). I worked as an engineering intern in [Microsoft Cloud+AI](https://www.microsoft.com/en-us/aprd/aboutus/team-cai). I received my B.S. in Computer Science and Technology from SJTU.
-Feel free to reach out if you are interested in potential collaboration!
+I'm Chunyu Xue (薛春宇), a final-year PhD candidate in [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn) from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn), advised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html). My [research interests](https://github.com/DicardoX/Research-Space) lie in building efficient and scalable systems for LLM and MultiModal pretraining, supervised fine-tuning, post-training, and cluster-level scheduling. 
+Currently, I'm working as a research intern in [Moonshot AI (Kimi)](https://www.moonshot.ai) (RL Infrastructure). Before that, I had a wonderful experience when working as a research intern in [ByteDance Seed](https://seed.bytedance.com/en/) (Training Infrastructure). I worked as an engineering intern in [Microsoft Cloud+AI](https://www.microsoft.com/en-us/aprd/aboutus/team-cai). I received my B.S. in Computer Science and Technology from [SJTU]((https://www.sjtu.edu.cn)).
+<!-- Feel free to reach out if you are interested in potential collaboration! -->
+
 
 # 🔥 News
 
